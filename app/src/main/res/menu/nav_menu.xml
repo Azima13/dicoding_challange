@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_beach"
+        android:icon="@drawable/ic_beach_access_black_24dp"
+        android:title="Beach"/>
+    <item
+        android:id="@+id/navigation_mountain"
+        android:icon="@drawable/ic_landscape_black_24dp"
+        android:title="Mountain"/>
+</menu>
